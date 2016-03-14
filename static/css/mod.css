@@ -4,3 +4,7 @@
 .post-image>img {
   margin: 0 auto;
 }
+
+.post-time {
+  margin-top: 10px;
+}
