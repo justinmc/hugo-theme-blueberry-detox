@@ -6,6 +6,7 @@ homepage = "https://github.com/allnightgrocery/hugo-theme-blueberry-detox"
 tags = ["blog", "minimal", "ghost", "white"]
 features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing options"]
 min_version = 0.14
+Paginate = 3
 
 [author]
   name = "Andrew R. Jenkins"
