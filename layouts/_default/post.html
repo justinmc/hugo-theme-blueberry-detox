@@ -3,6 +3,12 @@
         <h3 class="p-post-title">{{ .Title }}</h3>
     </header>
 
+    {{ with .Params.pic}}
+    <div class="post-image">
+      <img src="{{ . }}" />
+    </div>
+    {{ end }}
+
     <section class="post-content">
         {{ .Content }}
     </section>
