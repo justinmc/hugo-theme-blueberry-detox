@@ -8,3 +8,23 @@
 .post-time {
   margin-top: 10px;
 }
+
+.author {
+  margin-top: 52px;
+  text-align: left;
+  text-transform: none;
+  letter-spacing: 1px;
+  font-size: 114%;
+  font-weight: normal;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.author a {
+  font-weight: bold;
+}
+.author a:hover {
+  color: #e6e6e6;
+  border-bottom: 1px solid;
+}
+.author-thumb {
+  float: right;
+}
